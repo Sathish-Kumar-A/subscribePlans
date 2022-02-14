@@ -1,0 +1,1 @@
+A simple page to display plans to subscribe
